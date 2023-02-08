@@ -25,3 +25,9 @@ Things I use the most:
 OS:
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) 
+
+
+## Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LomariPortfolio&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PITR-DEV&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
