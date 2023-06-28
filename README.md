@@ -31,4 +31,4 @@ OS:
 ## Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LomariPortfolio&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LomariPortfolio&theme=)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LomariPortfolio&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
