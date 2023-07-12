@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- 🌱 I’m currently learning Web developpement (HTML/CSS;JS;REACT)
+- 🌱 I’m currently learning Web developpement (HTML/CSS; JS; REACT;)
 - ⚡ Fun fact: The biggest number that exists, is still as small as zero in comparision to infinity.
 
 Things I use the most:
