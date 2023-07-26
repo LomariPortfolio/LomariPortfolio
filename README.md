@@ -30,6 +30,5 @@ OS:
 
 
 ## Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LomariPortfolio&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Hamza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LomariPortfolio&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LomariPortfolio&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
